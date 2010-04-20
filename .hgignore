@@ -1,0 +1,7 @@
+
+syntax: regexp
+^WEB-INF/appengine-generated$
+syntax: regexp
+^web-app/plugins$
+syntax: regexp
+^test/reports$
